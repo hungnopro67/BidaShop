@@ -1,4 +1,0 @@
-STT,CLASS NAME,METHOD NAME,UNIT DESCRIPTION,PRIORITY,EXPECTED RESULT,ACTUAL RESULT,STATUS,TESTER NAME,TEST DATE,NOTES
-1,ExampleClass1,exampleMethod1,Tests the first example method,High,Success,Success,Passed,hungnopro67,2026-03-19 10:40:27,No issues
-2,ExampleClass2,exampleMethod2,Tests the second example method,Medium,Success,Success,Passed,hungnopro67,2026-03-19 10:40:27,No issues
-3,ExampleClass3,exampleMethod3,Tests the third example method,Low,Failure,Success,Failed,hungnopro67,2026-03-19 10:40:27,Issue with edge case
