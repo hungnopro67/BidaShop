@@ -1,0 +1,211 @@
+-------------------------------------------------------------------------------
+Test set: bida.shop.dao.LichSuGiaGioChoiDAOTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 9, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! -- in bida.shop.dao.LichSuGiaGioChoiDAOTest
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testUpdateNotFound() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type LichSuGiaGioChoiDAOTest
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method assertEquals(int, int) is undefined for the type LichSuGiaGioChoiDAOTest
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testUpdateNotFound(LichSuGiaGioChoiDAOTest.java:113)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testDeleteSuccess() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type LichSuGiaGioChoiDAOTest
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method assertEquals(int, int) is undefined for the type LichSuGiaGioChoiDAOTest
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testDeleteSuccess(LichSuGiaGioChoiDAOTest.java:138)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testUpdateSuccess() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type LichSuGiaGioChoiDAOTest
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method assertEquals(int, int) is undefined for the type LichSuGiaGioChoiDAOTest
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testUpdateSuccess(LichSuGiaGioChoiDAOTest.java:81)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testDeleteNotFound() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type LichSuGiaGioChoiDAOTest
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method assertEquals(int, int) is undefined for the type LichSuGiaGioChoiDAOTest
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testDeleteNotFound(LichSuGiaGioChoiDAOTest.java:153)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testInsertSuccess() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type LichSuGiaGioChoiDAOTest
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method assertEquals(int, int) is undefined for the type LichSuGiaGioChoiDAOTest
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testInsertSuccess(LichSuGiaGioChoiDAOTest.java:25)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testUpdateInvalidData() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problem: 
+	Test cannot be resolved to a type
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testUpdateInvalidData(LichSuGiaGioChoiDAOTest.java:104)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testInsertNullField() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problem: 
+	Test cannot be resolved to a type
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testInsertNullField(LichSuGiaGioChoiDAOTest.java:48)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testInsertDuplicateKey() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type LichSuGiaGioChoiDAOTest
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testInsertDuplicateKey(LichSuGiaGioChoiDAOTest.java:57)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.LichSuGiaGioChoiDAOTest.bida.shop.dao.LichSuGiaGioChoiDAOTest.testDeleteInvalidId() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type LichSuGiaGioChoiDAOTest
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+
+	at bida.shop.dao.LichSuGiaGioChoiDAOTest.testDeleteInvalidId(LichSuGiaGioChoiDAOTest.java:168)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+

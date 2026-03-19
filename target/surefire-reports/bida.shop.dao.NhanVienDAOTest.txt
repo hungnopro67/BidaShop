@@ -1,0 +1,234 @@
+-------------------------------------------------------------------------------
+Test set: bida.shop.dao.NhanVienDAOTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 9, Errors: 0, Skipped: 0, Time elapsed: 0.011 s <<< FAILURE! -- in bida.shop.dao.NhanVienDAOTest
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testDeleteSuccess() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Mockito cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testDeleteSuccess(NhanVienDAOTest.java:96)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testInsertFail() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Assert cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testInsertFail(NhanVienDAOTest.java:43)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testUpdateSuccess() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Mockito cannot be resolved
+	Assert cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testUpdateSuccess(NhanVienDAOTest.java:60)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testInsertSuccess() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Mockito cannot be resolved
+	Assert cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testInsertSuccess(NhanVienDAOTest.java:24)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testUpdateFail() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Assert cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testUpdateFail(NhanVienDAOTest.java:79)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testExistsByUsernameFalse() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Assert cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testExistsByUsernameFalse(NhanVienDAOTest.java:132)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testExistsByUsernameTrue() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Assert cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testExistsByUsernameTrue(NhanVienDAOTest.java:113)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testFindByUsernameNotFound() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Assert cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testFindByUsernameNotFound(NhanVienDAOTest.java:173)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.NhanVienDAOTest.bida.shop.dao.NhanVienDAOTest.testFindByUsernameFound() -- Time elapsed: 0.001 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type NhanVienDAOTest
+	Assert cannot be resolved
+
+	at bida.shop.dao.NhanVienDAOTest.testFindByUsernameFound(NhanVienDAOTest.java:151)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+

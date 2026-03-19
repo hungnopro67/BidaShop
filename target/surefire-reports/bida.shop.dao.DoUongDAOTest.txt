@@ -1,0 +1,202 @@
+-------------------------------------------------------------------------------
+Test set: bida.shop.dao.DoUongDAOTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 9, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! -- in bida.shop.dao.DoUongDAOTest
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testDeleteSelectedEmptyList() -- Time elapsed: 0.001 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Assert cannot be resolved
+
+	at bida.shop.dao.DoUongDAOTest.testDeleteSelectedEmptyList(DoUongDAOTest.java:141)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testTruSoLuongAm() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type DoUongDAOTest
+	Assert cannot be resolved
+
+	at bida.shop.dao.DoUongDAOTest.testTruSoLuongAm(DoUongDAOTest.java:113)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testTruSoLuongDu() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type DoUongDAOTest
+	The method when(int) is undefined for the type DoUongDAOTest
+	Assert cannot be resolved
+
+	at bida.shop.dao.DoUongDAOTest.testTruSoLuongDu(DoUongDAOTest.java:85)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testSelectAllEmpty() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type DoUongDAOTest
+	The method when(ResultSet) is undefined for the type DoUongDAOTest
+	The method when(boolean) is undefined for the type DoUongDAOTest
+	Assert cannot be resolved
+
+	at bida.shop.dao.DoUongDAOTest.testSelectAllEmpty(DoUongDAOTest.java:55)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testSelectAllDbError() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	Assert cannot be resolved
+	Assert cannot be resolved
+
+	at bida.shop.dao.DoUongDAOTest.testSelectAllDbError(DoUongDAOTest.java:71)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testTruSoLuongKhongDu() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type DoUongDAOTest
+	The method when(int) is undefined for the type DoUongDAOTest
+	Assert cannot be resolved
+
+	at bida.shop.dao.DoUongDAOTest.testTruSoLuongKhongDu(DoUongDAOTest.java:99)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testDeleteSelectedSuccess() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type DoUongDAOTest
+	The method when(int) is undefined for the type DoUongDAOTest
+	The method atLeastOnce() is undefined for the type DoUongDAOTest
+
+	at bida.shop.dao.DoUongDAOTest.testDeleteSelectedSuccess(DoUongDAOTest.java:127)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testSelectAllWithData() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type DoUongDAOTest
+	The method when(ResultSet) is undefined for the type DoUongDAOTest
+	The method when(boolean) is undefined for the type DoUongDAOTest
+	The method when(String) is undefined for the type DoUongDAOTest
+	The method when(String) is undefined for the type DoUongDAOTest
+	The method when(double) is undefined for the type DoUongDAOTest
+	The method when(int) is undefined for the type DoUongDAOTest
+	Assert cannot be resolved
+
+	at bida.shop.dao.DoUongDAOTest.testSelectAllWithData(DoUongDAOTest.java:35)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
+bida.shop.dao.DoUongDAOTest.bida.shop.dao.DoUongDAOTest.testDeleteSelectedNotFound() -- Time elapsed: 0 s <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	MockedStatic cannot be resolved to a type
+	Mockito cannot be resolved
+	The method anyString() is undefined for the type DoUongDAOTest
+	The method when(int) is undefined for the type DoUongDAOTest
+	The method atLeastOnce() is undefined for the type DoUongDAOTest
+
+	at bida.shop.dao.DoUongDAOTest.testDeleteSelectedNotFound(DoUongDAOTest.java:148)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.executeTestMethod(PojoTestSetExecutor.java:104)
+	at org.apache.maven.surefire.junit.PojoTestSetExecutor.execute(PojoTestSetExecutor.java:63)
+	at org.apache.maven.surefire.junit.JUnit3Provider.executeTestSet(JUnit3Provider.java:131)
+	at org.apache.maven.surefire.junit.JUnit3Provider.invoke(JUnit3Provider.java:93)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+
