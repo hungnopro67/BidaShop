@@ -1,25 +1,4 @@
-STT,Class,Phương thức (Unit),Mô tả,Dự kiến kết quả,Kết quả thực tế,Trạng thái,Người kiểm thử,Ngày kiểm thử,Ghi chú
-1,UserController,login(),Kiểm thử đăng nhập với username và password hợp lệ,Trả về success và user token,,,Chưa kiểm thử,,
-2,UserController,logout(),Kiểm thử đăng xuất user,Trả về success và xóa session,,,Chưa kiểm thử,,
-3,UserController,getUserInfo(),Kiểm thử lấy thông tin user từ token,Trả về thông tin user đầy đủ,,,Chưa kiểm thử,,
-4,UserController,updateProfile(),Kiểm thử cập nhật thông tin user,Trả về success và dữ liệu cập nhật,,,Chưa kiểm thử,,
-5,UserController,changePassword(),Kiểm thử thay đổi mật khẩu,Trả về success nếu mật khẩu cũ đúng,,,Chưa kiểm thử,,
-6,ProductService,getAllProducts(),Kiểm thử lấy danh sách tất cả sản phẩm,Trả về danh sách sản phẩm không rỗng,,,Chưa kiểm thử,,
-7,ProductService,getProductById(),Kiểm thử lấy sản phẩm theo ID,Trả về thông tin sản phẩm chính xác,,,Chưa kiểm thử,,
-8,ProductService,searchProducts(),Kiểm thử tìm kiếm sản phẩm theo từ khóa,Trả về danh sách sản phẩm phù hợp,,,Chưa kiểm thử,,
-9,ProductService,addProduct(),Kiểm thử thêm sản phẩm mới,Sản phẩm được thêm vào database thành công,,,Chưa kiểm thử,,
-10,ProductService,updateProduct(),Kiểm thử cập nhật thông tin sản phẩm,Sản phẩm được cập nhật thành công,,,Chưa kiểm thử,,
-11,OrderService,createOrder(),Kiểm thử tạo đơn hàng mới,Đơn hàng được tạo với status PENDING,,,Chưa kiểm thử,,
-12,OrderService,getOrderById(),Kiểm thử lấy chi tiết đơn hàng,Trả về thông tin đơn hàng đầy đủ,,,Chưa kiểm thử,,
-13,OrderService,cancelOrder(),Kiểm thử hủy đơn hàng,Đơn hàng chuyển sang status CANCELLED,,,Chưa kiểm thử,,
-14,OrderService,updateOrderStatus(),Kiểm thử cập nhật trạng thái đơn hàng,Trạng thái đơn hàng được cập nhật,,,Chưa kiểm thử,,
-15,OrderService,calculateOrderTotal(),Kiểm thử tính tổng tiền đơn hàng,Tổng tiền được tính đúng bao gồm thuế,,,Chưa kiểm thử,,
-16,CartService,addToCart(),Kiểm thử thêm sản phẩm vào giỏ hàng,Sản phẩm được thêm vào cart thành công,,,Chưa kiểm thử,,
-17,CartService,removeFromCart(),Kiểm thử xóa sản phẩm khỏi giỏ hàng,Sản phẩm được xóa khỏi cart,,,Chưa kiểm thử,,
-18,CartService,updateCartItem(),Kiểm thử cập nhật số lượng sản phẩm trong cart,Số lượng được cập nhật đúng,,,Chưa kiểm thử,,
-19,CartService,getCartTotal(),Kiểm thử lấy tổng giá trị giỏ hàng,Trả về giá trị tính đúng,,,Chưa kiểm thử,,
-20,PaymentService,processPayment(),Kiểm thử xử lý thanh toán,Gọi API thanh toán và trả về kết quả,,,Chưa kiểm thử,,
-21,PaymentService,validatePaymentInfo(),Kiểm thử xác thực thông tin thanh toán,Trả về true nếu dữ liệu hợp lệ,,,Chưa kiểm thử,,
-22,PaymentService,refundPayment(),Kiểm thử hoàn tiền,Hoàn tiền thành công và cập nhật trạng thái,,,Chưa kiểm thử,,
-23,PaymentService,getPaymentHistory(),Kiểm thử lấy lịch sử thanh toán,Trả về danh sách các giao dịch,,,Chưa kiểm thử,,
-24,PaymentService,calculateTax(),Kiểm thử tính toán thuế,Tính thuế đúng theo tỷ lệ,,,Chưa kiểm thử,,
+STT,CLASS NAME,METHOD NAME,UNIT DESCRIPTION,PRIORITY,EXPECTED RESULT,ACTUAL RESULT,STATUS,TESTER NAME,TEST DATE,NOTES
+1,ExampleClass1,exampleMethod1,Tests the first example method,High,Success,Success,Passed,hungnopro67,2026-03-19 10:40:27,No issues
+2,ExampleClass2,exampleMethod2,Tests the second example method,Medium,Success,Success,Passed,hungnopro67,2026-03-19 10:40:27,No issues
+3,ExampleClass3,exampleMethod3,Tests the third example method,Low,Failure,Success,Failed,hungnopro67,2026-03-19 10:40:27,Issue with edge case
